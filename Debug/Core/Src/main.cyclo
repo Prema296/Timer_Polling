@@ -1,0 +1,9 @@
+../Core/Src/main.c:79:6:Timer_set_cnt	1
+../Core/Src/main.c:87:6:Timer_Frequency_Cofig	2
+../Core/Src/main.c:133:5:main	3
+../Core/Src/main.c:209:6:SystemClock_Config	4
+../Core/Src/main.c:269:13:MX_TIM4_Init	4
+../Core/Src/main.c:314:13:MX_UART7_Init	5
+../Core/Src/main.c:362:13:MX_GPIO_Init	1
+../Core/Src/main.c:421:6:MPU_Config	1
+../Core/Src/main.c:452:6:Error_Handler	1
